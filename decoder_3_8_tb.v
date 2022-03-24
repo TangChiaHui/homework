@@ -13,7 +13,7 @@ initial begin
     #10 E_tb = 1; In_tb = 3'b100;
     #10 E_tb = 1; In_tb = 3'b101;
     #10 E_tb = 1; In_tb = 3'b110;
-    #10 E_tb = 1; In_tb = 3'b111;
+    #10 E_tb = 1; In_tb = 3'b111; 
     #10 $finish;
     end
 initial
